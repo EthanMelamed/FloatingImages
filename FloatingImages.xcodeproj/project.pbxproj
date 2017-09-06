@@ -276,7 +276,7 @@
 				DEVELOPMENT_TEAM = ZTT5ARXB25;
 				INFOPLIST_FILE = FloatingImages/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ecm.FloatingImages;
+				PRODUCT_BUNDLE_IDENTIFIER = ecm.ARTakeOff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -290,7 +290,7 @@
 				DEVELOPMENT_TEAM = ZTT5ARXB25;
 				INFOPLIST_FILE = FloatingImages/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ecm.FloatingImages;
+				PRODUCT_BUNDLE_IDENTIFIER = ecm.ARTakeOff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -316,6 +316,7 @@
 				AAF0F8281F5F8B110026792F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
